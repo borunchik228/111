@@ -1,0 +1,20 @@
+{
+    "name": "100,000 NOT Voucher #6322",
+    "image": "https://github.com/borunchik228/111/blob/main/999.png",
+    "attributes": [
+      {
+        "trait_type": "Value",
+        "value": "100,000"
+      },
+      {
+        "trait_type": "Type",
+        "value": "$NOT"
+      },
+	  {
+		  "trait_type": "Verified",
+		  "value": "True"
+	}
+    ],
+    "content_url": "https://notapp.one",
+    "description": "Rеdееm your vоuchеr for 100,000 NOT"
+}
